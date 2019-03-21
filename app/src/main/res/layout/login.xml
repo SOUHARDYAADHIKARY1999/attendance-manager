@@ -61,7 +61,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="416dp"
-        android:text="No accoint yet? Create one"
+        android:text="No account yet? Create one"
         android:textColor="#fff" />
 
 </RelativeLayout>
